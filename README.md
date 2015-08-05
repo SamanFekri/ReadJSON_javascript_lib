@@ -17,3 +17,5 @@ JSON Library in javascript
 	}
 </script>
 ```
+## Guaranty
+this code has absolutely no guaranty.
