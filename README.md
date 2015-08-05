@@ -1,10 +1,10 @@
 JSON Library in javascript
 ----------
 ## Usage
-**link them to you project**
-* readJSON.js
-* jquery-1.11.3.min.js*
-**usage in code**
+* **link them to you project**
+ * readJSON.js
+ * jquery-1.11.3.min.js
+* **usage in code**
 ```
 <script>
 	readJSON(url,postItem,Success,Fail);
